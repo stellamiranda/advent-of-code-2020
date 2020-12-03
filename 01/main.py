@@ -1,4 +1,3 @@
-
 def finf_two_num_sum(array, num):
     array.sort()
     i = 0
